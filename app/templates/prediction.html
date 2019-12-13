@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Fill in the medical data of the patient</h1>
+    <form action="" method="post" novalidate>
+        {{ form.hidden_tag() }}
+        <p>
+
+            {{ form.glucose.label }}<br>
+            {{ form.glucose(size=12) }}<br>
+
+            {{ form.insulin.label }}<br>
+            {{ form.insulin(size=12) }}<br>
+
+            {{ form.bmi.label }}<br>
+            {{ form.bmi(size=12) }}<br>
+
+            {{ form.skin.label }}<br>
+            {{ form.skin(size=12) }}<br>
+
+            {{ form.preg.label }}<br>
+            {{ form.preg(size=12) }}<br>
+
+            {{ form.dpf.label }}<br>
+            {{ form.dpf(size=12) }}<br>
+
+            {{ form.blood.label }}<br>
+            {{ form.blood(size=12) }}<br>
+
+            {{ form.age.label }}<br>
+            {{ form.age(size=12) }}<br>
+
+        </p>
+        <p>{{ form.submit() }}</p>
+    </form>
+{% endblock %}

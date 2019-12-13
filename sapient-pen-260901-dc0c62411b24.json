@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sapient-pen-260901",
+  "private_key_id": "dc0c62411b2438b7e8f5a6d5e6a7ba0f5a26bc52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCEBuumhCdGtj4l\nsN6XFcwQvXkK7iexdDdTYS3zZpDpE2bFE+wPEbQNvJYF+nk3mIny2hC1nbnmIuVE\n9D9Kfx/X6KKy+MDIiEJZ6A0+RiHiVZ+lx8Mn0GpHIs6LNKvATUFUkIVZnM8z/pgu\n5xsCFlSKlSyYBqEtLYrbvVynbAT7D/Dn5sAMR8OLh38QIo1rSvvtdoc/eDVZKsnB\npKEJ0CX0K/hkDPHhLnrsLRnlIJWfzntMu9FJJOUl9gAKdTx7MJrtdqltleJIn9Jw\nfVQYZJqK6VoScg9vC3ce90z6P3euc3KOTuslCRSt4ReHPkAnZZWiws/lXh77ZpLi\n83J6zTEVAgMBAAECggEADKgHLhLMGxS8V2uhovUld1Nah6g16OZ9qUIPIB6sdJN2\nDh1vSzCExK5X6WHN/fzi+INcB7UDjaK5vMb3TEJsgIueES8UeATL64d5wYcCl4pi\nwAcq16W8km4tQ538evZM9XjXN7R3DoJw/0oLRkNyvkg3mqlECSss/Qylla0euxx0\nWaQiQBM8EYV7Yfp4GTHF6OzZOaSdA2agEvHPJlc0ccjyOetzRnttPZzKcI3nTwlA\nzleZ1UD4QWaQPvWcMN2+6NRTD1IYshER07FPy9Uu74IoKdCGX/XaQYETIptKtj6K\n2FLthIVGOJVdpHFkeFaSDAlQmDXBL9GMgFcR8fJygQKBgQC38m+NxWZ4+qQ1w/ls\nj3eTbJ5yalLhToaM/xenAwbQEsc9+ATpw8WYvbMq9UTmp9oL8M7a3AggHmBagfpj\nkXDnB1n3lcnefQNaZhIxz+ycPb4xw+ZPbLD2ld/hcXvAoM34eyPma9sum5DvMrsc\nGYmjWmx5uTydci503R5S53jbQQKBgQC3viFda60bgwgLhmVPaCB1aZD9e/mj02bf\nKKEkpJbl57GJto1u3S603ji796W9EeNzEDL18XMs9oS67MmGmlVWxBkndNqpwXl4\nem3s9VKyqkY1CrFP5DDO1r5w3Wa8OhJklfAfnoSkP66+vTvGKT2Ah6UjW8WFdxjZ\nto3dGCHE1QKBgQCCDHbt5ogCNEHweTNYmz3RDtQe1CjwfdIG0TrpquwgI4aVu0nN\n88k5qbSIRIuH/1fbZU750OI1wwQgORDLYEJQNBRZRJ9KG1xJhyyJ5xTDiat0B6pG\nsPOUAnYcL11s3MOCT50cBVka5IVdd6JtxWhYA0/55wqBzf4mRUZxGpGJgQKBgQCa\n/FVIZ7rsqenvTr3F7R7z6sfSCPDZr0fmlG7Yabye0ICAmOtTyF3NUmSoqIu0n5Ir\nTE6wBaoREx+CTJjwYN37Ag31qiuHZRsA9MQkTAolilsOAqbtrJ0+2wRoT1iJDLLX\nBWI2SY+4u766RQRWchLeh4xT9uT1XzAm9EVVaTWSwQKBgQCNPPZuyNfbWgHrkfqo\nBdYogofPTMitIE3WqGd5PNY4DQGuykMsCoXaHOkygMl4+MaGg+aVnBuzCOirf4jb\nbl4/8GRYDIC2M8WA0Rem4ztBUkE/FQcVCwToyIiI4RAqb7ZmTeKRiNF/zETEFMLL\nKHe9jgCsvEbYFb4oxWo+3AQ7JA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pima-app@sapient-pen-260901.iam.gserviceaccount.com",
+  "client_id": "111862402702815641472",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pima-app%40sapient-pen-260901.iam.gserviceaccount.com"
+}
